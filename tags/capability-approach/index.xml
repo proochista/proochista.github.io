@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Capability approach | Proochista Ariana</title>
+    <title>capability approach | Proochista Ariana</title>
     <link>/tags/capability-approach/</link>
       <atom:link href="/tags/capability-approach/index.xml" rel="self" type="application/rss+xml" />
-    <description>Capability approach</description>
+    <description>capability approach</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>&amp;copy Proochista Ariana 2019</copyright><lastBuildDate>Sat, 27 May 2017 00:00:00 +0100</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Capability approach</title>
+      <title>capability approach</title>
       <link>/tags/capability-approach/</link>
     </image>
     
@@ -18,6 +18,15 @@
       <pubDate>Sat, 27 May 2017 00:00:00 +0100</pubDate>
       <guid>/publication/oxforddevelopmentstudies2017/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Capability Approach to Health</title>
+      <link>/project/capability-approach-to-health/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/project/capability-approach-to-health/</guid>
+      <description>&lt;p&gt;Research in this area examines how Amartya Sen&#39;s capability approach can be applied to health. We investigate how such an approach alters perception of the problem and aids in the development of viable and sustainable solutions. This work is undertaken in collaboration with the &lt;a href=&#34;https://www.ophi.org.uk&#34;&gt;Oxford Poverty and Human Development Initiative (OPHI)&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
