@@ -5,12 +5,20 @@
     <link>/awards/</link>
       <atom:link href="/awards/index.xml" rel="self" type="application/rss+xml" />
     <description>Awards</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>&amp;copy Proochista Ariana 2019</copyright><lastBuildDate>Fri, 01 Nov 2013 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>&amp;copy Proochista Ariana 2019</copyright><lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Awards</title>
       <link>/awards/</link>
     </image>
+    
+    <item>
+      <title>Major Educator - Medical Sciences Division - 2019</title>
+      <link>/awards/major-educator-2019/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/awards/major-educator-2019/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Excellent Teacher Award - Medical Sciences Division - 2013</title>
