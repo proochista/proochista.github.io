@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>antimicrobial resistance | Proochista Ariana</title>
+    <link>/tags/antimicrobial-resistance/</link>
+      <atom:link href="/tags/antimicrobial-resistance/index.xml" rel="self" type="application/rss+xml" />
+    <description>antimicrobial resistance</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>&amp;copy Proochista Ariana 2019</copyright><lastBuildDate>Wed, 28 Mar 2018 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>antimicrobial resistance</title>
+      <link>/tags/antimicrobial-resistance/</link>
+    </image>
+    
+    <item>
+      <title>Antibiotics and activity spaces: protocol of an exploratory study of behaviour, marginalisation and knowledge diffusion</title>
+      <link>/publication/bmj2018/</link>
+      <pubDate>Wed, 28 Mar 2018 00:00:00 +0100</pubDate>
+      <guid>/publication/bmj2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Community-level antibiotic access and use (ABACUS) in low- and middle-income countries: Finding targets for social interventions to improve appropriate antimicrobial use - an observational multi-centre study</title>
+      <link>/publication/wellcome2017/</link>
+      <pubDate>Fri, 28 Jul 2017 00:00:00 +0100</pubDate>
+      <guid>/publication/wellcome2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

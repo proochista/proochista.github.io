@@ -1,0 +1,638 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/courses/example/example1/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/example/</loc>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/example/example2/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/example/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/writing-technical-content/</loc>
+    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/admin/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/3/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/preprint/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/source-themes/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/jupyter/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/slides/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/slides/example/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/2/</loc>
+    <lastmod>2018-03-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/amphayvone-thepkhamkong/</loc>
+    <lastmod>2018-03-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/bmj2018/</loc>
+    <lastmod>2018-03-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/antimicrobial-resistance/</loc>
+    <lastmod>2018-03-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/caroline-o-h-jones/</loc>
+    <lastmod>2018-03-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/chanthasone-phanthavong/</loc>
+    <lastmod>2018-03-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/daranee-intralawan/</loc>
+    <lastmod>2018-03-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/direk-limmathurotsakul/</loc>
+    <lastmod>2018-03-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/felix-reed-tsochas/</loc>
+    <lastmod>2018-03-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/giacomo-zanello/</loc>
+    <lastmod>2018-03-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/heiman-f-l-wertheim/</loc>
+    <lastmod>2018-03-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/jeffrey-lienert/</loc>
+    <lastmod>2018-03-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/kanokporn-wibunjak/</loc>
+    <lastmod>2018-03-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/krittanon-promsutt/</loc>
+    <lastmod>2018-03-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/maipheth-keovilayvanh/</loc>
+    <lastmod>2018-03-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/marco-j-haenssgen/</loc>
+    <lastmod>2018-03-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/mayfong-mayxay/</loc>
+    <lastmod>2018-03-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/narinnira-sangkham/</loc>
+    <lastmod>2018-03-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/nicksan-sithongdeng/</loc>
+    <lastmod>2018-03-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/nid-khamsoukthavong/</loc>
+    <lastmod>2018-03-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/nutcha-charoenboon/</loc>
+    <lastmod>2018-03-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/patchapoom-u-thong/</loc>
+    <lastmod>2018-03-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/pathompong-manohan/</loc>
+    <lastmod>2018-03-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/patipat-benjaroon/</loc>
+    <lastmod>2018-03-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/patthanan-thavethanutthanawin/</loc>
+    <lastmod>2018-03-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/paul-n-newton/</loc>
+    <lastmod>2018-03-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/penporn-warapikuptanun/</loc>
+    <lastmod>2018-03-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/phaengnitta-phanthasomchit/</loc>
+    <lastmod>2018-03-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/pollavat-praphattong/</loc>
+    <lastmod>2018-03-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/poowadon-chai-in/</loc>
+    <lastmod>2018-03-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/proochista-ariana/</loc>
+    <lastmod>2018-03-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/rachel-c-greer/</loc>
+    <lastmod>2018-03-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/romyen-kosaikanont/</loc>
+    <lastmod>2018-03-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/sirirat-chailert/</loc>
+    <lastmod>2018-03-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/sommay-keomany/</loc>
+    <lastmod>2018-03-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/somsanith-boualaiseng/</loc>
+    <lastmod>2018-03-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/souksakhone-vongsavang/</loc>
+    <lastmod>2018-03-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/supalert-nedsuwan/</loc>
+    <lastmod>2018-03-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/thailand/</loc>
+    <lastmod>2018-03-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/thipphaphone-xayavong/</loc>
+    <lastmod>2018-03-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/thomas-althaus/</loc>
+    <lastmod>2018-03-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/tri-wangrangsimakul/</loc>
+    <lastmod>2018-03-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/yoel-lubell/</loc>
+    <lastmod>2018-03-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/yuzana-khine-zaw/</loc>
+    <lastmod>2018-03-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/amelieke-j.h.-cremers/</loc>
+    <lastmod>2017-07-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/behzad-nadjm/</loc>
+    <lastmod>2017-07-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/betuel-sigauque/</loc>
+    <lastmod>2017-07-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/wellcome2017/</loc>
+    <lastmod>2017-07-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/f.-xavier-gomez-olive/</loc>
+    <lastmod>2017-07-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/h.-rogier-van-doorn/</loc>
+    <lastmod>2017-07-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/heiman-f.l.-wertheim/</loc>
+    <lastmod>2017-07-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/johannes-john-langba/</loc>
+    <lastmod>2017-07-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/john-kinsman/</loc>
+    <lastmod>2017-07-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/khatia-munguambe/</loc>
+    <lastmod>2017-07-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/kwaku-poku-asante/</loc>
+    <lastmod>2017-07-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/margaret-gyapong/</loc>
+    <lastmod>2017-07-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/nga-t.t.-do/</loc>
+    <lastmod>2017-07-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/nguyen-thi-kim-chuc/</loc>
+    <lastmod>2017-07-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/osman-sankoh/</loc>
+    <lastmod>2017-07-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/stephen-tollman/</loc>
+    <lastmod>2017-07-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/sureeporn-punpuing/</loc>
+    <lastmod>2017-07-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/tran-khanh-toan/</loc>
+    <lastmod>2017-07-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/wasif-ali-khan/</loc>
+    <lastmod>2017-07-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/capability-approach/</loc>
+    <lastmod>2017-05-27T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/china/</loc>
+    <lastmod>2017-05-27T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/health/</loc>
+    <lastmod>2017-05-27T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/india/</loc>
+    <lastmod>2017-05-27T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/marco-haenssgen/</loc>
+    <lastmod>2017-05-27T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/mobile-phones/</loc>
+    <lastmod>2017-05-27T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/technology/</loc>
+    <lastmod>2017-05-27T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/oxforddevelopmentstudies2017/</loc>
+    <lastmod>2017-05-27T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/healthcare-access/</loc>
+    <lastmod>2017-02-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/mhealth/</loc>
+    <lastmod>2017-02-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/technology-diffusion/</loc>
+    <lastmod>2017-02-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/healthpolicyplann2016/</loc>
+    <lastmod>2017-02-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/worlddevelopment2017/</loc>
+    <lastmod>2017-02-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/ssm2017/</loc>
+    <lastmod>2016-11-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/healthcare-seeking-behavior/</loc>
+    <lastmod>2016-11-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/sequence-analysis/</loc>
+    <lastmod>2016-11-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/deep-learning/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/demo/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/external-project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/internal-project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/academic/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/getting-started/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/demo/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal-article/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/robert-ford/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/births/</loc>
+    <lastmod>2015-09-01T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/delivery/</loc>
+    <lastmod>2015-09-01T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/manisha-nair/</loc>
+    <lastmod>2015-09-01T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/premila-webster/</loc>
+    <lastmod>2015-09-01T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/rrh2012/</loc>
+    <lastmod>2015-09-01T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2015-07-23-r-rmarkdown/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/plot/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/r/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/r-markdown/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/regression/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/1/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/conference-paper/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/</loc>
+  </url>
+  
+  <url>
+    <loc>/courses/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/poverty/</loc>
+  </url>
+  
+  <url>
+    <loc>/project/poverty-and-health/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/transition/</loc>
+  </url>
+  
+  <url>
+    <loc>/project/transitions-and-health/</loc>
+  </url>
+  
+</urlset>

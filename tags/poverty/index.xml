@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>poverty | Proochista Ariana</title>
+    <link>/tags/poverty/</link>
+      <atom:link href="/tags/poverty/index.xml" rel="self" type="application/rss+xml" />
+    <description>poverty</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>&amp;copy Proochista Ariana 2019</copyright>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>poverty</title>
+      <link>/tags/poverty/</link>
+    </image>
+    
+    <item>
+      <title>Poverty and Health</title>
+      <link>/project/poverty-and-health/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/project/poverty-and-health/</guid>
+      <description>&lt;p&gt;Research in this area is undertaken in collaboration with the Young Lives project, a prospective study of the dynamics of childhood poverty in four countries (Peru, Vietnam, Ethiopia, and India).  Projects include investigations of nutrition, healthcare, health behaviours and self-rated health in relation to characteristics of poverty.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
