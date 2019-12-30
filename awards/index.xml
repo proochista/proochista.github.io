@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Awards | Proochista Ariana</title>
+    <link>/awards/</link>
+      <atom:link href="/awards/index.xml" rel="self" type="application/rss+xml" />
+    <description>Awards</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>&amp;copy Proochista Ariana 2019</copyright><lastBuildDate>Mon, 01 Apr 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Awards</title>
+      <link>/awards/</link>
+    </image>
+    
+    <item>
+      <title>Most Acclaimed Lecturer - Medical Sciences Division - 2013</title>
+      <link>/awards/most-acclaimed-lecturer-2013/</link>
+      <pubDate>Mon, 01 Apr 2013 00:00:00 +0000</pubDate>
+      <guid>/awards/most-acclaimed-lecturer-2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
