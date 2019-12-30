@@ -117,14 +117,6 @@
     </item>
     
     <item>
-      <title>Demo</title>
-      <link>/tags/demo/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/tags/demo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Academic</title>
       <link>/tags/academic/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
@@ -145,6 +137,22 @@
       <link>/tags/delivery/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0100</pubDate>
       <guid>/tags/delivery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>economic development</title>
+      <link>/tags/economic-development/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/tags/economic-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>environment</title>
+      <link>/tags/environment/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/tags/environment/</guid>
       <description></description>
     </item>
     

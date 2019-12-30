@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>environment | Proochista Ariana</title>
+    <link>/tags/environment/</link>
+      <atom:link href="/tags/environment/index.xml" rel="self" type="application/rss+xml" />
+    <description>environment</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>&amp;copy Proochista Ariana 2019</copyright>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>environment</title>
+      <link>/tags/environment/</link>
+    </image>
+    
+    <item>
+      <title>Development, environment and health</title>
+      <link>/project/development-environment-and-health/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/project/development-environment-and-health/</guid>
+      <description>&lt;p&gt;A seminar series and module on &lt;em&gt;&amp;lsquo;Health, Environment snd Development&amp;rsquo;&lt;/em&gt; has been offered as a collaboration between the Departments of Geography, International Development, and Public Health. The module examines a number of case studies demonstrating the complex interrelationship between economic development, environment and public health.  For more information, please visit &lt;a href=&#34;http://www.hed.ox.ac.uk&#34;&gt;www.hed.ox.ac.uk&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

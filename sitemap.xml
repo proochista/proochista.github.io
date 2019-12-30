@@ -478,21 +478,6 @@
   </url>
   
   <url>
-    <loc>/tags/demo/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/external-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/academic/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
@@ -546,11 +531,27 @@
   </url>
   
   <url>
+    <loc>/project/development-environment-and-health/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/economic-development/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/environment/</loc>
+  </url>
+  
+  <url>
     <loc>/tags/poverty/</loc>
   </url>
   
   <url>
     <loc>/project/poverty-and-health/</loc>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
   </url>
   
   <url>
