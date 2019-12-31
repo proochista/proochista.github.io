@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Proochista Ariana</title>
-    <link>/authors/admin/</link>
-      <atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
-    <description>Proochista Ariana</description>
+    <title>antenatal care | Proochista Ariana</title>
+    <link>/tags/antenatal-care/</link>
+      <atom:link href="/tags/antenatal-care/index.xml" rel="self" type="application/rss+xml" />
+    <description>antenatal care</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>&amp;copy Proochista Ariana 2019</copyright><lastBuildDate>Mon, 30 May 2016 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Proochista Ariana</title>
-      <link>/authors/admin/</link>
+      <title>antenatal care</title>
+      <link>/tags/antenatal-care/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>/publication/healthpolicyplann2016/</link>
       <pubDate>Mon, 30 May 2016 00:00:00 +0000</pubDate>
       <guid>/publication/healthpolicyplann2016/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Impact of mothers’ employment on infant feeding and care: a qualitative study of the experiences of mothers employed through the Mahatma Gandhi National Rural Employment Guarantee Act</title>
-      <link>/publication/bmjopen2014/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>/publication/bmjopen2014/</guid>
       <description></description>
     </item>
     
